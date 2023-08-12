@@ -111,6 +111,10 @@ footer {
     width: 100%;
   }
 
+  .iphone-container {
+    width: 300px;
+  }
+
   .description {
     display: flex;
     flex-direction: column;
